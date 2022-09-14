@@ -1,0 +1,44 @@
+a{
+  text-decoration: none;
+  background-color: red; 
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  transition: 0.5s;  
+}
+
+a:hover{
+    background-color: black;
+    color: red;
+
+}
+
+.title{
+  border: 1px solid white;
+  background-color: white;
+  
+  
+
+}
+.title-text{
+  font-size: 20px;
+  text-align: center;
+  color: w;
+}
+.text{
+  border: 1px solid;
+  background-color: black;
+}
+.text-title{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.box1{
+  border: 1px solid;
+  background-color: red;
+}
+ .box2{
+  border: 1px dashed;
+  background-color: green;
+ }
